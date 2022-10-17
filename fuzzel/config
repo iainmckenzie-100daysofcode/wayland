@@ -1,0 +1,1 @@
+set $menu /usr/bin/fuzzel --background=000000ff --text-color=45FF3BFF --selection-color=45FF3BFF --selection-text-color=000000FF 

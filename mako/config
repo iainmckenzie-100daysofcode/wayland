@@ -1,0 +1,14 @@
+font=Sans 11
+# anchor=bottom-right
+width=350
+padding=10
+margin=10
+border-size=2
+
+background-color=#000000
+border-color=#43FF14
+text-color=#43FF14
+
+[urgency=high]
+border-color=#FF0A0A
+ignore-timeout=1
